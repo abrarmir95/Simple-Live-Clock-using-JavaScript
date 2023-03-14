@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 100vw;
+}
+.navbar{
+    margin-left: -124px;
+    margin-right: -124px;
+}
